@@ -37,7 +37,7 @@ public class Umpire {
 		}
 		
 		if (!flag)
-			System.out.println("No player won the match");
+			System.out.println("No player won the matches");
 		else
 			return;
 	}
